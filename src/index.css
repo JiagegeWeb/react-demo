@@ -11,3 +11,43 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#root,.App,.RouterName{
+  width: 100%;
+  height: 100%;
+}
+/*ant-layout*/
+.ant-layout{
+  width: 100%;
+  height: 100%;
+}
+.ant-layout-header{
+  background: none;
+  border-bottom: 1px solid black;
+}
+.ant-layout-footer{
+  border-top: 1px solid black;
+}
+
+/*Swiper*/
+.SwiperBox{
+  height: 100%;
+}
+.divStyle{
+  height: 100%;
+}
+.ant-carousel{
+  height: 100%;
+}
+.slick-slider{
+  height: 100%;
+}
+.slick-slide div{
+  height: 100%;
+}
+.slick-track{
+  height: 100%;
+}
+.slick-list{
+  height: 100%;
+}
